@@ -1,0 +1,34 @@
+objects:
+snakes
+cardboard
+messages
+
+snake properties:
+size
+color
+speed
+
+snake behaviors:
+take messages
+go between departments
+give messages
+
+cardboard properties:
+size
+color
+shape
+
+cardboard behaviors:
+get written on
+get carried by snake
+get delivered to message recipient
+
+message properties:
+text
+font
+text size
+
+message behaviors:
+get written down
+get sent
+get read
